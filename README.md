@@ -64,7 +64,7 @@ Depois disso, você deve abrir o arquivo chamado `appsettings.json`, é nele que
 
 Seu arquivo após preencher deve ficar parecido com esse. O Pepper no JSON é uma string de sua escolha convertida em Base64. 😊
 
-[Mas o que é Pepper de verdade? Para que ele serve?](https://www.makeuseof.com/what-is-peppering-how-https://www.makeuseof.com/what-is-peppering-how-does-it-work/does-it-work/) 🌶️
+[Mas o que é Pepper de verdade? Para que ele serve?](https://www.makeuseof.com/what-is-peppering-how-does-it-work/) 🌶️
 
 Onde pesquisei, há quem diga que o Pepper deve variar de acordo com a senha, outros dizem que apenas o Salt deve variar. Nesse caso, manti o Pepper fixo (logicamente, após criptografado, o Hash vai ser diferente para cada senha no banco de dados). 👍
 
