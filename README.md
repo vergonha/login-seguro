@@ -1,8 +1,8 @@
 <h1 align="center">Login Seguro!</h1>
 
 <p align="center">Noções gerais sobre APIs e segurança com C# 🔒</p>
-<h1 align="center"><img src="https://tutorialslink.com/Article_file/1a312145-a6e3-4573-a6d5-c10024101957.png" width="200px"></h1>
-
+<h1 align="center"><img src="https://media.discordapp.net/attachments/970409780604706926/1134647493058101418/image.png?width=798&height=468" width="800px"></h1>
+<p align="center"><i>Representação final da tabela</i></p>
 
 
 ## 🤓 Sobre o Projeto
